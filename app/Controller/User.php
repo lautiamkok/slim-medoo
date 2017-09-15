@@ -88,8 +88,8 @@ class User
 
         // Generate a version 1 (time-based) UUID object.
         // https://github.com/ramsey/uuid
-        $uuid3 = Uuid::uuid1();
-        $uuid = $uuid3->toString();
+        $uuid1 = Uuid::uuid1();
+        $uuid = $uuid1->toString();
 
         // Assuming this is a model in a more complex app system.
         $model = new \stdClass;
