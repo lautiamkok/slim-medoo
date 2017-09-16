@@ -2,6 +2,8 @@
 
 > Using Medoo with Slim3.
 
+Read the post [here](https://www.codementor.io/lautiamkok/using-eloquent-doctrine-dbal-or-medoo-with-slim-3-byr7kyj59) about this repository.
+
 ## Setup
 
 ``` bash
