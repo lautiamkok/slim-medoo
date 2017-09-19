@@ -17,7 +17,7 @@ $ php -S 0.0.0.0:8080 -t public
 
 Then, access the app at http://localhost:8080/
 
-## Docs
+## Dependencies
 
 * [Slim](https://www.slimframework.com/docs/) - A PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
 * [Monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services.
